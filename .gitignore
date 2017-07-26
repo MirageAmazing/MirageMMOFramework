@@ -70,3 +70,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# UnityEditor
+*.meta
+Library/
+Temp/
